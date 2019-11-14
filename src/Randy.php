@@ -1,6 +1,6 @@
 <?php
 
-namespace superDuperCyberTechno\Randy;
+namespace superDuperCyberTechno;
 
 class Randy
 {
