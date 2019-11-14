@@ -1,7 +1,6 @@
 {
     "name": "superdupercybertechno/randy",
     "description": "The Mersenne Twister in PHP - A seedable pseudorandom number generator",
-    "type": "laravel-package",
     "license": "MIT",
     "authors": [
         {
