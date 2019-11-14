@@ -1,7 +1,7 @@
 # randy
 #### The Mersenne Twister in PHP - A seedable pseudorandom number generator
 
-Based in [this](https://www.dr-chuck.com/csev-blog/2015/09/a-mersenne_twister-implementation-in-php/).
+Based on [this](https://www.dr-chuck.com/csev-blog/2015/09/a-mersenne_twister-implementation-in-php/).
 
 Install it using composer:
 
