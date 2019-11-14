@@ -12,7 +12,7 @@ composer install superdupercybertechno/randy
 To use it, add the following to your file:
 
 ```
-use superDuperCyberTechno\Randy;
+use superDuperCyberTechno\Randy\Randy;
 ```
 
 When you need it, simply invoke it and request numbers.
